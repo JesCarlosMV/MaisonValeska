@@ -65,7 +65,7 @@ const HomePage = () => {
             </div>
             <div className="absolute -bottom-12 -right-12 w-64 h-64 bg-bg-primary p-4 shadow-2xl hidden md:block">
               <img 
-                src="https://images.unsplash.com/photo-1598560912005-59a09aa48a4d?auto=format&fit=crop&q=80&w=500" 
+                src="https://www.shutterstock.com/shutterstock/videos/18384829/thumb/5.jpg?ip=x480" 
                 alt="Detail"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
