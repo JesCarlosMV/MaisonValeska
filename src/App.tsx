@@ -21,7 +21,6 @@ const HomePage = () => {
       exit={{ opacity: 0 }}
       transition={{ duration: 1 }}
     >
-      <Hero />
       
       {/* Brand Story Teaser */}
       <section className="py-32 bg-bg-secondary overflow-hidden">
