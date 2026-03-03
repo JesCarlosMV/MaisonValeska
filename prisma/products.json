@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Collar Éclat Éternel",
+    "description": "Diamantes de 2 quilates engastados en platino de la más alta pureza.",
+    "price": 12500,
+    "category": "Colección Éclat",
+    "image_url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&q=80&w=800",
+    "material": "Platino",
+    "gemstone": "Diamante",
+    "stock": 5
+  },
+  {
+    "name": "Anillo Solitaire Valeska",
+    "description": "Un diamante central corte esmeralda con claridad VVS1.",
+    "price": 8900,
+    "category": "Colección Éclat",
+    "image_url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=800",
+    "material": "Oro Blanco 18k",
+    "gemstone": "Diamante",
+    "stock": 3
+  },
+  {
+    "name": "Brazalete Aurum Curve",
+    "description": "Oro amarillo sólido con acabado martillado a mano por maestros artesanos.",
+    "price": 4200,
+    "category": "Colección Aurum",
+    "image_url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=800",
+    "material": "Oro Amarillo 18k",
+    "gemstone": "Ninguna",
+    "stock": 10
+  },
+  {
+    "name": "Pendientes Nudo de Oro",
+    "description": "Diseño entrelazado en oro rosa, símbolo de unión eterna.",
+    "price": 2800,
+    "category": "Colección Aurum",
+    "image_url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&q=80&w=800",
+    "material": "Oro Rosa 18k",
+    "gemstone": "Ninguna",
+    "stock": 8
+  },
+  {
+    "name": "Pendientes Royale Sapphire",
+    "description": "Zafiros reales de Ceilán rodeados de micro-diamantes brillantes.",
+    "price": 6700,
+    "category": "Colección Royale",
+    "image_url": "https://images.unsplash.com/photo-1635767790417-22e83b1636c9?auto=format&fit=crop&q=80&w=800",
+    "material": "Oro Blanco 18k",
+    "gemstone": "Zafiro",
+    "stock": 4
+  },
+  {
+    "name": "Anillo Esmeralda Imperial",
+    "description": "Esmeralda colombiana de 3 quilates con un verde profundo y vibrante.",
+    "price": 15400,
+    "category": "Colección Royale",
+    "image_url": "https://images.unsplash.com/photo-1603561591411-071c4f713934?auto=format&fit=crop&q=80&w=800",
+    "material": "Oro Amarillo 18k",
+    "gemstone": "Esmeralda",
+    "stock": 2
+  },
+  {
+    "name": "Tiara de la Reina",
+    "description": "Pieza histórica con 500 diamantes engastados en una estructura de platino ligero.",
+    "price": 85000,
+    "category": "Alta Joyería",
+    "image_url": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&q=80&w=800",
+    "material": "Platino",
+    "gemstone": "Diamante",
+    "stock": 1
+  },
+  {
+    "name": "Gargantilla de Rubíes",
+    "description": "Rubíes birmanos de color sangre de paloma seleccionados individualmente.",
+    "price": 45000,
+    "category": "Alta Joyería",
+    "image_url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&q=80&w=1000",
+    "material": "Oro Blanco 18k",
+    "gemstone": "Rubí",
+    "stock": 2
+  },
+  {
+    "name": "Reloj Celestial Moonphase",
+    "description": "Complicación de fase lunar con esfera de meteorito y caja de oro rosa.",
+    "price": 32000,
+    "category": "Relojería",
+    "image_url": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&q=80&w=800",
+    "material": "Oro Rosa 18k",
+    "gemstone": "Zafiro",
+    "stock": 5
+  },
+  {
+    "name": "Gemelos Ónice y Diamante",
+    "description": "Elegancia masculina con ónice pulido y un diamante central.",
+    "price": 1800,
+    "category": "Accesorios",
+    "image_url": "https://images.unsplash.com/photo-1617114919297-3c8ddb01f599?auto=format&fit=crop&q=80&w=800",
+    "material": "Plata de Ley",
+    "gemstone": "Ónice",
+    "stock": 15
+  }
+]
